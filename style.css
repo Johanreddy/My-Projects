@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(yellow 0% , green 100%);
+}
+.line {
+    background-color: aqua;
+    height: 5px;
+    width: 70px;
+    margin: 8px auto;
+}
